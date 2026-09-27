@@ -10,6 +10,8 @@ It provides publication-quality figures and the R source code required to reprod
 
 **Figure 1 — Protection Conversion Policy-Instrument Mix**
 
+[![Figure 1: Protection Conversion Policy-Instrument Mix](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.png)](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.png)
+
 Figure 1. Programme theory of change for the proposed complementary Protection Conversion Policy-Instrument Mix.
 
 The figure distinguishes:
@@ -27,8 +29,6 @@ the conditional progression from Greek implementation learning to a modular tool
 Arrows represent hypotheses to be tested, not established causal effects. Mandatory Social Climate Fund reporting obligations remain unchanged. Any later application in another programme or jurisdiction would require a separate legal, institutional, market, climatic and evidentiary assessment.
 
 ### Download Figure 1
-
-- [High-resolution PNG](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.png)
 - [Vector PDF](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.pdf)
 - [Vector SVG](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.svg)
 - [Reproducible R source](R/Figure_1_Protection_Conversion_Policy_Instrument_Mix.R)
