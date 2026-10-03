@@ -8,7 +8,7 @@ This repository accompanies the policy paper Who Pays for Resilience? From Finan
 
 It provides publication-quality figures and the R source code required to reproduce them. The materials present a proposed policy architecture and programme theory; they do not report a completed pilot or established causal effects.
 
-***Figure 1 — Protection Conversion Policy-Instrument Mix**
+### Figure 1 — Protection Conversion Policy-Instrument Mix
 
 [![Figure 1: Protection Conversion Policy-Instrument Mix](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.png)](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.png)
 
