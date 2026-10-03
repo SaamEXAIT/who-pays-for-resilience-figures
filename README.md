@@ -8,7 +8,7 @@ This repository accompanies the policy paper Who Pays for Resilience? From Finan
 
 It provides publication-quality figures and the R source code required to reproduce them. The materials present a proposed policy architecture and programme theory; they do not report a completed pilot or established causal effects.
 
-**Figure 1 — Protection Conversion Policy-Instrument Mix**
+### Figure 1 — Protection Conversion Policy-Instrument Mix
 
 [![Figure 1: Protection Conversion Policy-Instrument Mix](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.png)](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.png)
 
@@ -32,3 +32,20 @@ Arrows represent hypotheses to be tested, not established causal effects. Mandat
 - [Vector PDF](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.pdf)
 - [Vector SVG](figures/Figure_1_Protection_Conversion_Policy_Instrument_Mix.svg)
 - [Reproducible R source](R/Figure_1_Protection_Conversion_Policy_Instrument_Mix.R)
+
+
+### Figure 2. Protection–Conversion Problem and Solution Tree
+
+[![Figure 2 preview](figures/Figure_2_Protection_Conversion_FINAL.png)](figures/Figure_2_Protection_Conversion_FINAL.png)
+
+[PNG](figures/Figure_2_Protection_Conversion_FINAL.png) ·
+[PDF](figures/Figure_2_Protection_Conversion_FINAL.pdf) ·
+[SVG](figures/Figure_2_Protection_Conversion_FINAL.svg)
+
+### Figure 3. Correction, Evaluation, and Adaptation
+
+[![Figure 3 preview](figures/Figure_3_Correction_Evaluation_and_Adaptation.png)](figures/Figure_3_Correction_Evaluation_and_Adaptation.png)
+
+[PNG](figures/Figure_3_Correction_Evaluation_and_Adaptation.png) ·
+[PDF](figures/Figure_3_Correction_Evaluation_and_Adaptation.pdf) ·
+[SVG](figures/Figure_3_Correction_Evaluation_and_Adaptation.svg)
